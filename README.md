@@ -8,3 +8,5 @@
 7) data science with certificate https://drive.google.com/drive/folders/1s4jO5w0fVHzFx_RtGxeR8iA1jF_uTzsV
 8)asp.net core
 9)english for freelancer
+10)QAcart cypress
+11)foothil training 
